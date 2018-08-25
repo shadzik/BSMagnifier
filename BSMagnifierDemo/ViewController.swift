@@ -12,7 +12,6 @@ class ViewController: UIViewController {
     
     @IBOutlet private var bgImageView: UIImageView!
     private var magnifier: BSMagnifier?
-    private var added: Bool = false
 
     override func viewDidLoad() {
         super.viewDidLoad()
